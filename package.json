@@ -2,7 +2,7 @@
   "name": "next-with-apollo",
   "version": "0.1.0",
   "private": true,
-  "Author":"Emmanuel",
+  "Author":"Edeh Emmanuel",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
